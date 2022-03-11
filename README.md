@@ -2,8 +2,9 @@
 https://www.kaggle.com/c/ieee-fraud-detection
 
 
-
-
+<p align="center">
+  <img width="700" height="350" src="https://user-images.githubusercontent.com/99130519/157931029-b9408951-3413-4116-b8a0-cf6336047253.png">
+</p>
 
 ## Transaction Table
 TransactionDT: timedelta from a given reference datetime (not an actual timestamp)
@@ -40,3 +41,6 @@ DeviceType
 
 DeviceInfo
 
+# Results
+
+![Kaggle Final Submission Scores (1)](https://user-images.githubusercontent.com/99130519/157930708-feff97a9-6007-40d6-b3e2-8dbb8250e239.png)
