@@ -6,6 +6,12 @@ https://www.kaggle.com/c/ieee-fraud-detection
   <img width="700" height="350" src="https://user-images.githubusercontent.com/99130519/157931029-b9408951-3413-4116-b8a0-cf6336047253.png">
 </p>
 
+## Business Problem
+
+Can we predict the probability of an online transaction being fraudulent?
+
+
+
 ## Transaction Table
 TransactionDT: timedelta from a given reference datetime (not an actual timestamp)
 
